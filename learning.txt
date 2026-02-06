@@ -1,2 +1,6 @@
 I'm learning the basics of managing a github repo. At this stage of the lesson, I have merely learned to initialize git in a folder, but I will likely soon
 be pushing these changes to my github account repo.
+
+I am learning Git fundamentals.
+Git tracks every change I make.
+I can commit my work to save progress.
