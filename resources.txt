@@ -1,3 +1,4 @@
 1. The abiltity to create and push to repos directly from command line. Creating a new project from scratch can be absurdly fast if you know what you are doing, and updating old ones is just as fast
 2. Being able to restore past versions from the local git. I can see how this function alone could save somebodys' job if they mess up badly enough.
 3. "git diff". You can see what you changed about a file right before you commit, which could prevent you from messing up badly enough to warrant the second resource on this list.
+4. Cloning repos. Instead of starting from scratch or having to manually download all the project files, github can do it for you right from the command line.
