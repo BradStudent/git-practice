@@ -6,3 +6,5 @@ Git tracks every change I make.
 I can commit my work to save progress.
 
 I pushed my repo to github
+
+Adding bad commit message...
